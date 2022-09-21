@@ -1,0 +1,19 @@
+{
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.experimental.stickyScroll.enabled": true,
+  "editor.fontFamily": "Ricty Diminished",
+  "editor.fontSize": 13,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80,100,],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+  "terminal.integrated.scrollback": 10000,
+  "window.zoomLevel": 2,
+  "security.workspace.trust.untrustedFiles": "open"
+}
