@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-containers",
+    "zhuangtongfa.material-theme",
+    "ritwickdey.liveserver",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "pranaygp.vscode-css-peek",
+    "PKief.material-icon-theme"
+  ]
+}
