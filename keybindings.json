@@ -1,7 +1,25 @@
 // Place your key bindings in this file to override the defaults
 [
   {
-    "key": "shift+alt+cmd+e",
+    "key": "shift+cmd+e c",
     "command": "workbench.files.action.collapseExplorerFolders"
+  },
+  {
+    "key": "ctrl+shift+g h",
+    "command": "gitlens.toggleFileHeatmap"
+  },
+  {
+    "key": "shift+cmd+e e",
+    "command": "workbench.view.explorer",
+    "when": "viewContainer.workbench.view.explorer.enabled"
+  },
+  {
+    "key": "shift+cmd+e",
+    "command": "-workbench.view.explorer",
+    "when": "viewContainer.workbench.view.explorer.enabled"
+  },
+  {
+    "key": "ctrl+shift+g l",
+    "command": "git.viewHistory"
   }
 ]
