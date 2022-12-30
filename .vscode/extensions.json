@@ -6,6 +6,7 @@
     "eamodio.gitlens",
     "donjayamanne.githistory",
     "pranaygp.vscode-css-peek",
-    "PKief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "GitHub.vscode-pull-request-github"
   ]
 }
