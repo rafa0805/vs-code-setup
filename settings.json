@@ -5,7 +5,7 @@
   "editor.fontSize": 13,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "trailing",
-  "editor.rulers": [80,100,],
+  "editor.rulers": [80,100],
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "editor.bracketPairColorization.enabled": true,
